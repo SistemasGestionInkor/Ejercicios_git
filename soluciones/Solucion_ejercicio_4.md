@@ -39,4 +39,5 @@ o
 ```git commit -a -m "Añadida característica experimental"```
 
 7. Utiliza `git diff` para comparar las diferencias entre la rama principal y la rama caracteristica-experimental
-```git diff main caracteristica-experimental``````
+   
+```git diff main caracteristica-experimental```
