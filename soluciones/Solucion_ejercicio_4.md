@@ -12,7 +12,8 @@ o
 
 Realizar cambios en el archivo
 
-```git add README.md
+```
+git add README.md
 git commit -m "Actualizaciones post v1.0"
 ```
 
@@ -22,14 +23,19 @@ git commit -m "Actualizaciones post v1.0"
 5. Crea una nueva rama llamada "caracteristica-experimental" y colocarse en ella
 ```git checkout -b caracteristica-experimental```
 o
-```git branch caracteristica-experimental
-git checkout caracteristica-experimental```
+```
+git branch caracteristica-experimental
+git checkout caracteristica-experimental
+```
 
 6. Realiza algunos cambios en esta nueva rama y haz un commit
 añadir cambios al archivo
-```git add README.md
-git commit -m "Añadida característica experimental"```
+```
+git add README.md
+git commit -m "Añadida característica experimental"
+```
 o
+
 ```git commit -a -m "Añadida característica experimental"```
 
 7. Utiliza `git diff` para comparar las diferencias entre la rama principal y la rama caracteristica-experimental
