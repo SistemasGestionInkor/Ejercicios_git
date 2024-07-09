@@ -1,5 +1,7 @@
 # Ejercicios de Git
 
+Las soluciones para hacer todo desde el terminal se encuantran [soluciones-git-ejercicios.md](soluciones-git-ejercicios.md)
+
 ## Ejercicio 1: Configurar un nuevo repositorio y realizar cambios
 
 1. Inicializa un nuevo repositorio Git en un directorio llamado "mi_proyecto".
@@ -8,6 +10,8 @@
 4. Añade el archivo README.md al área de preparación (staged area).
 5. Realiza un commit con los cambios y un mensaje descriptivo.
 6. Visualiza el historial de commits.
+
+La solución de este ejercicio se encuentra en [Solucion_ejercicio_1](Solucion_ejercicio_1)
 
 ## Ejercicio 2: Trabajar con ramas
 
@@ -18,6 +22,8 @@
 5. Vuelve a la rama principal.
 6. Fusiona la "rama-caracteristica" con la rama principal.
 7. Elimina la "rama-caracteristica".
+
+La solución de este ejercicio se encuentra en [Solucion_ejercicio_2](Solucion_ejercicio_2)
 
 ## Ejercicio 3: Deshacer cambios y trabajar con repositorios remotos
 
@@ -30,6 +36,8 @@
 7. Obtén los cambios del repositorio remoto.
 8. Fusiona los cambios obtenidos en tu repositorio local.
 
+La solución de este ejercicio se encuentra en [Solucion_ejercicio_3](Solucion_ejercicio_3)
+
 ## Ejercicio 4: Etiquetar y comparar cambios
 
 1. Crea una etiqueta anotada para tu versión actual (por ejemplo, "v1.0").
@@ -39,3 +47,5 @@
 5. Crea una nueva rama llamada "caracteristica-experimental".
 6. Realiza algunos cambios en esta nueva rama y haz un commit.
 7. Utiliza `git diff` para comparar las diferencias entre la rama principal y la rama caracteristica-experimental.
+
+La solución de este ejercicio se encuentra en [Solucion_ejercicio_4](Solucion_ejercicio_4)
