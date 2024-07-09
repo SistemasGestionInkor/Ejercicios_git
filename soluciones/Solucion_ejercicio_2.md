@@ -9,8 +9,10 @@ crear README.md y añadir el texto
 4. Añade los cambios al área de preparación y haz un commit.
 ```git commit -a -m "Añadida información sobre nueva característica"```
 o
-```git add README.md
-git commit -m "Añadida información sobre nueva característica"```
+```
+git add README.md
+git commit -m "Añadida información sobre nueva característica"
+```
 5. Vuelve a la rama principal.
 ```git checkout main```
 6. Fusiona la "rama-caracteristica" con la rama principal.
