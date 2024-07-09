@@ -13,7 +13,7 @@ o
 Realizar cambios en el archivo
 
 ```git add README.md
-git commit -m "Actualizaciones post v1.0"```
+git commit -m "Actualizaciones post v1.0" ```
 
 4. Utiliza `git diff` para comparar los cambios entre tu versión etiquetada y el estado actual
 ```git diff v1.0 HEAD```
