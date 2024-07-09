@@ -9,7 +9,9 @@ o
 ```git push --tags```
 
 3. Realiza algunos cambios en tu proyecto y haz un commit
+
 Realizar cambios en el archivo
+
 ```git add README.md
 git commit -m "Actualizaciones post v1.0"```
 
