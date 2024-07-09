@@ -1,6 +1,6 @@
 # Ejercicios de Git
 
-Las soluciones para hacer todo desde el terminal se encuantran [soluciones-git-ejercicios.md](soluciones-git-ejercicios.md)
+Las soluciones para hacer todo desde el terminal se encuantran [soluciones-git-ejercicios.md](soluciones/soluciones-git-ejercicios.md)
 
 ## Ejercicio 1: Configurar un nuevo repositorio y realizar cambios
 
@@ -11,7 +11,7 @@ Las soluciones para hacer todo desde el terminal se encuantran [soluciones-git-e
 5. Realiza un commit con los cambios y un mensaje descriptivo.
 6. Visualiza el historial de commits.
 
-La solución de este ejercicio se encuentra en [Solucion_ejercicio_1](Solucion_ejercicio_1)
+La solución de este ejercicio se encuentra en [Solucion_ejercicio_1](soluciones/Solucion_ejercicio_1)
 
 ## Ejercicio 2: Trabajar con ramas
 
@@ -23,7 +23,7 @@ La solución de este ejercicio se encuentra en [Solucion_ejercicio_1](Solucion_e
 6. Fusiona la "rama-caracteristica" con la rama principal.
 7. Elimina la "rama-caracteristica".
 
-La solución de este ejercicio se encuentra en [Solucion_ejercicio_2](Solucion_ejercicio_2)
+La solución de este ejercicio se encuentra en [Solucion_ejercicio_2](soluciones/Solucion_ejercicio_2)
 
 ## Ejercicio 3: Deshacer cambios y trabajar con repositorios remotos
 
@@ -36,7 +36,7 @@ La solución de este ejercicio se encuentra en [Solucion_ejercicio_2](Solucion_e
 7. Obtén los cambios del repositorio remoto.
 8. Fusiona los cambios obtenidos en tu repositorio local.
 
-La solución de este ejercicio se encuentra en [Solucion_ejercicio_3](Solucion_ejercicio_3)
+La solución de este ejercicio se encuentra en [Solucion_ejercicio_3](soluciones/Solucion_ejercicio_3)
 
 ## Ejercicio 4: Etiquetar y comparar cambios
 
@@ -48,4 +48,4 @@ La solución de este ejercicio se encuentra en [Solucion_ejercicio_3](Solucion_e
 6. Realiza algunos cambios en esta nueva rama y haz un commit.
 7. Utiliza `git diff` para comparar las diferencias entre la rama principal y la rama caracteristica-experimental.
 
-La solución de este ejercicio se encuentra en [Solucion_ejercicio_4](Solucion_ejercicio_4)
+La solución de este ejercicio se encuentra en [Solucion_ejercicio_4](soluciones/Solucion_ejercicio_4)
